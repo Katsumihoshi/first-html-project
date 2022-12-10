@@ -1,2 +1,3 @@
 # First HTML Project
-Current project status: - Already submitted
+Current project status:
+- Already submitted
